@@ -1,5 +1,6 @@
 # crawlr
 Find and fix broken links in your websites
+![Screenshot](./img.png)
 
 ## Features
 
