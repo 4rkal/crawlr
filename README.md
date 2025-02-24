@@ -1,7 +1,7 @@
 # crawlr
 Find and fix broken links in your websites
 
-<img src="./screenshot.png" alt="Screenshot" width="500" height="400">
+<img src="./screenshot.png" alt="Screenshot" width="700" height="600">
 
 
 ## Features
