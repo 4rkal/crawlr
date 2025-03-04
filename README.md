@@ -13,7 +13,11 @@ Find and fix broken links in your websites
 
 - Uses concurrency for faster scanning.
 
-## Usage
+## Install
+
+Install using go: `go install github.com/4rkal/crawlr@latest`
+
+OR
 
 Clone the repo:
 
@@ -22,6 +26,10 @@ Clone the repo:
 `cd crawlr`
 
 `go run .`
+
+## Usage
+
+
 
 Enter website url (including https://)
 
