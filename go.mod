@@ -1,4 +1,4 @@
-module crawlr
+module github.com/4rkal/crawlr
 
 go 1.23.5
 
